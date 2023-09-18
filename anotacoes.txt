@@ -1,0 +1,19 @@
+Cadastro Aluno
+	Nome
+	Data Nascimento
+	cpf
+	rg
+	Serie - Choice
+	Pai
+	Mae
+
+Cadastro Matéria
+	Codigo
+	Nome
+
+Cadastro Professor
+	Nome
+	Matricula
+	Materia
+	Nivel
+	
